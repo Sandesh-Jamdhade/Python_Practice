@@ -1,3 +1,4 @@
+#For reverse the digit
 n=12345
 rev=0
 while n>0:
